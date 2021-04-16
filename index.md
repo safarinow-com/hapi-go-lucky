@@ -1,8 +1,9 @@
 # Welcome to HAPI
 
 ## API Docs (Swagger)
-[http://20.54.181.220/index.html] (Swagger API Documentation) or
-[http://20.54.181.220/api-docs/index.html] (Redoc API Docs)
+[Swagger API](http://20.54.181.220/index.html)
+or
+[Redoc API](http://20.54.181.220/api-docs/index.html)
 
 ## Try it with Postman here
 
