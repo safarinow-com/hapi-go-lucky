@@ -23,10 +23,10 @@ All end point produce as close to live data as we can but don't worry they are i
 
 
 ## Data Providers
-- Safarinow.com
-- Booking.com
-- Expedia.com
-- Hotelbeds.com
+* [X] Safarinow.com
+* [X] Booking.com
+* [X] Expedia.com
+* [X] Hotelbeds.com
 
 # Coming Soon:
 * [ ] Nightsbridge
