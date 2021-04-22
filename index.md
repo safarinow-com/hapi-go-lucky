@@ -19,7 +19,7 @@ Register a new user first and generate an Auth Token. Apply this as an Authoriza
 HAPI provides an accommodation API with three simple end points Search, Book and Cancel.
 
 ## Testing Phase: 
-All end point produce as close to live data as we can but don't worry they are in staging mode and no live bookings are made.
+All end point products are as close to live data as possible but don't worry they are in staging mode and no live bookings are made.
 
 
 ## Data Providers
