@@ -43,7 +43,7 @@ All end point products are as close to live data as possible but don't worry the
 * [ ] HConnect
 
 
-## Build Status
-![Docker](https://github.com/safarinow-com/HAPI/workflows/Docker/badge.svg?branch=main)
-![Unit Tests (UCs)](https://github.com/safarinow-com/HAPI/workflows/RunUseCaseTestsWF/badge.svg)
-[![Build Status](https://dev.azure.com/SafariNowCollection/SafariNow/_apis/build/status/HAPI%20Tag%20n%20Deploy%20-%20STAGE?branchName=main)](https://dev.azure.com/SafariNowCollection/SafariNow/_build/latest?definitionId=162&branchName=main)
+# Support
+Any queries about the API, strange responses, pricing or content can be sent to one of the following channels
+Email: fa3df594.safarinow.com@emea.teams.ms
+Find us on TS Slack: #hapi-to-help
